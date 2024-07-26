@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "복숭아 아이스티",
+    "imgUrl": "",
+    "desc": "진한 홍차 풍미와 달콤한 복숭아 향이 어우러진 시원한 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 110,
+        "sugars": 15,
+        "protein": 0,
+        "fat": 0,
+        "salt": 35,
+        "caffeine": 30
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "애플 시나몬 티",
+    "imgUrl": "",
+    "desc": "블랙티에 건조 사과와 시나몬 스틱이 더해져 더욱 진하고 향기로운 티 블렌딩 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 118,
+        "sugars": 19,
+        "protein": 2,
+        "fat": 0,
+        "salt": 4,
+        "caffeine": 70
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "얼그레이 티",
+    "imgUrl": "",
+    "desc": "꽃향 가득한 라벤더와 베르가못 향이 진한 홍차와 블렌딩된 향긋한 블랙 티입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 2,
+        "sugars": 0,
+        "protein": 0.4,
+        "fat": 0,
+        "salt": 5,
+        "caffeine": 70
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "자몽 얼그레이 티",
+    "imgUrl": "",
+    "desc": "달콤쌉싸름한 자몽과 얼그레이 티가 만나 향기롭고 달콤하게 즐길 수 있는 티 블렌딩 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 252,
+        "sugars": 64,
+        "protein": 3,
+        "fat": 0.9,
+        "salt": 64,
+        "caffeine": 27
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "히비스커스 블렌드 티",
+    "imgUrl": "",
+    "desc": "히비스커스와 호박을 블렌딩한 차로 피부미용과 체지방 감소에 효과적이며 상큼한 향미가 특징인 티입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 3,
+        "sugars": 0,
+        "protein": 0.3,
+        "fat": 0,
+        "salt": 5,
+        "caffeine": 10
+      }
+    ]
+  }
+]

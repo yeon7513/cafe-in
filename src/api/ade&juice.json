@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "레모네이드",
+    "imgUrl": "",
+    "desc": "제주산 레몬의 상큼함을 청량감 있게 즐길 수 있는 에이드입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 150,
+        "sugars": 34,
+        "protein": 0,
+        "fat": 0,
+        "salt": 5,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "복자 에이드",
+    "imgUrl": "",
+    "desc": "달콤 쫀득한 식감의 자두콤포트와 납작복숭아 과육의 부드러운 달콤함을 청량감 있게 즐길 수 있는 에이드입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 155,
+        "sugars": 22,
+        "protein": 0,
+        "fat": 0,
+        "salt": 45,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "자몽 에이드",
+    "imgUrl": "",
+    "desc": "새콤 쌉싸름한 자몽과 탄산수가 어우러진 스파클링 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 173,
+        "sugars": 32,
+        "protein": 7,
+        "fat": 0,
+        "salt": 4,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "청포도 에이드",
+    "imgUrl": "",
+    "desc": "상큼한 청포도의 과육이 살아 있는 스파클링 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 165,
+        "sugars": 35,
+        "protein": 0,
+        "fat": 0,
+        "salt": 126,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "생딸기 주스",
+    "imgUrl": "",
+    "desc": "신선한 논산 생딸기를 듬뿍 넣어 갈아 만든 딸기 주스입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 172,
+        "sugars": 39,
+        "protein": 1,
+        "fat": 0,
+        "salt": 10,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "자몽 주스",
+    "imgUrl": "",
+    "desc": "새콤 쌉싸름한 자몽 본연의 맛을 느낄 수 있는 과일주스입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 246,
+        "sugars": 43,
+        "protein": 2,
+        "fat": 0.1,
+        "salt": 4,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "애플망고 주스",
+    "imgUrl": "",
+    "desc": "새콤달콤한 애플망고를 듬뿍 넣어 갈아 만든 과일주스입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 171,
+        "sugars": 37,
+        "protein": 1,
+        "fat": 0,
+        "salt": 41,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "키위 주스",
+    "imgUrl": "",
+    "desc": "상큼한 키위를 그대로 갈아 만든 과일주스입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 246,
+        "sugars": 56,
+        "protein": 2,
+        "fat": 0,
+        "salt": 6,
+        "caffeine": 0
+      }
+    ]
+  }
+]

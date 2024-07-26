@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "녹차 프라페노",
+    "imgUrl": "",
+    "desc": "쌉싸름한 제주녹차의 풍미를 시원하게 즐길 수 있는 블렌디드 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 324,
+        "sugars": 49,
+        "protein": 5,
+        "fat": 7.5,
+        "salt": 71,
+        "caffeine": 60
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "딸기 요거트 프라페노",
+    "imgUrl": "",
+    "desc": "상큼한 딸기와 리얼 요거트가 어우러진 블렌디드 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 241,
+        "sugars": 36,
+        "protein": 4,
+        "fat": 4.1,
+        "salt": 54,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "블루베리 요거트 프라페노",
+    "imgUrl": "",
+    "desc": "새콤달콤한 블루베리와 리얼 요거트가 어우러진 블렌디드 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 243,
+        "sugars": 39,
+        "protein": 3,
+        "fat": 3.2,
+        "salt": 40,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "플레인 요거트 프라페노",
+    "imgUrl": "",
+    "desc": "리얼 요거트가 들어가 더욱 산뜻한 블렌디드 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 332,
+        "sugars": 60,
+        "protein": 6,
+        "fat": 2.2,
+        "salt": 65,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "초코칩 프라페노",
+    "imgUrl": "",
+    "desc": "달콤쌉싸름한 초콜릿의 진한 풍미와 초코칩이 어우러진 블렌디드 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 430,
+        "sugars": 55,
+        "protein": 7,
+        "fat": 14,
+        "salt": 95,
+        "caffeine": 10
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "딸기 우유 프라페노",
+    "imgUrl": "",
+    "desc": "상큼한 딸기와 달콤한 밀크쉐이크를 함께 즐길 수 있는 블렌디드 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 310,
+        "sugars": 43,
+        "protein": 10,
+        "fat": 4.3,
+        "salt": 110,
+        "caffeine": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "딸기 쿠키앤크림 프라페노",
+    "imgUrl": "",
+    "desc": "상큼한 딸기와 달콤한 쿠키앤크림의 조화와 바삭하게 씹히는 쿠키를 함께 즐길 수 있는 블렌디드 음료입니다.",
+    "info": [
+      {
+        "provided": 355,
+        "calorie": 365,
+        "sugars": 49,
+        "protein": 2,
+        "fat": 11,
+        "salt": 320,
+        "caffeine": 0
+      }
+    ]
+  }
+]

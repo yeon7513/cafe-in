@@ -1,0 +1,6 @@
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 24px 0;
+  border-bottom: 4px double var(--common-color);
+}

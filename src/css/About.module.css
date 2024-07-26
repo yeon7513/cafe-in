@@ -1,0 +1,22 @@
+.about {
+  display: flex;
+  gap: 24px;
+  padding: 80px 0;
+}
+
+.aboutTitle {
+  padding-top: 32px;
+  flex-direction: column;
+  gap: 24px;
+}
+.aboutTitle > div {
+  width: 100%;
+}
+
+.interiorTitle {
+  flex-direction: column;
+}
+
+.interiorTitle > div {
+  width: 100%;
+}

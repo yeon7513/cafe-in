@@ -1,0 +1,24 @@
+.item:hover .card {
+  border: 2px solid var(--hover-color);
+}
+.item:hover .name {
+  font-weight: 600;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 8px;
+  width: 100%;
+  border-radius: 16px;
+  box-shadow: var(--box-shadow);
+  background-color: #fff;
+}
+.thumb {
+  display: block;
+  width: 100%;
+}
+.name {
+  font-size: 14px;
+}

@@ -1,0 +1,54 @@
+.detail {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 80px 0;
+}
+
+.thumb {
+  flex: none;
+  width: 50%;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.productName {
+  font-size: 20px;
+  font-family: var(--main-font);
+}
+.desc {
+  font-size: 14px;
+}
+
+.table {
+  width: 100%;
+  font-size: 12px;
+  border-collapse: collapse;
+}
+
+.table > caption {
+  padding: 8px;
+  text-align: left;
+  background-color: var(--common-color);
+  color: var(--main-color);
+}
+.table th {
+  opacity: 0.8;
+  padding: 8px;
+  width: 60%;
+  text-align: left;
+}
+
+.table td {
+  opacity: 0.5;
+}
+.table tr {
+  border-bottom: 1px dotted var(--common-color);
+}
+.table tr:last-child {
+  border-bottom: 2px solid var(--common-color);
+}
